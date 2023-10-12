@@ -13,7 +13,7 @@
 
 Example with number, null and undefined:
 
-![Alt text](image.png)
+![Alt text](src/image.png)
 
 ### Curiosidades sobre `null`
 
