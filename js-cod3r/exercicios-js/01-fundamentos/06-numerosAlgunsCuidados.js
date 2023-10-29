@@ -11,3 +11,10 @@ console.log('Show!' * 2);
 // Generating an imprecision
 console.log((0.1 + 0.7).toFixed(1));
 
+// sum string and number
+// victory STRING! 🏆🏆
+console.log('3' + 5);
+
+// minus string and number
+console.log('3' - 5);
+
