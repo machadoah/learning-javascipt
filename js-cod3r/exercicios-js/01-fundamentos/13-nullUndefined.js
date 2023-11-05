@@ -32,5 +32,3 @@ console.log(product)
 // outra opção é:
 product.price = null
 console.log(product)
-
-
